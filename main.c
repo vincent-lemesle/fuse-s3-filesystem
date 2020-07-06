@@ -4,7 +4,6 @@
   This program can be distributed under the terms of the GNU GPLv2.
   See the file COPYING.
 */
-#define FUSE_USE_VERSION 31
 #include <fuse.h>
 #include <stdio.h>
 #include <string.h>
